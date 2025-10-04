@@ -3,7 +3,7 @@ import React from 'react';
 const Skills = () => {
   const frontendSkills = ['React.js', 'Next.js', 'Bootstrap', 'CSS', 'JavaScript', 'HTML5'];
   const backendSkills = ['Node.js', 'Express.js', 'MongoDB', 'MySQL', 'Mongoose', 'REST APIs', 'Spring Boot (Basic)'];
-  const programmingLanguages = ['JavaScript', 'Java', 'Python (Basic)', 'C', 'C++'];
+  const programmingLanguages = ['JavaScript', 'Java', 'Python (Basic)', 'C'];
 
   return (
     <div className="max-w-4xl mx-auto">
